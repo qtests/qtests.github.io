@@ -7,9 +7,9 @@ categories: [blogging]
 tags: [blogging]
 ---
 
-#h1
-##h2
-###h3
+# h1
+## h2
+### h3
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
