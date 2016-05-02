@@ -1,7 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: My first post!
+published: false
+date: 2016-05-01
+categories: [blogging]
+tags: [blogging]
 ---
+
+#  = 	h1
+## = h2
+### = h3
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
