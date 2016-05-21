@@ -4,11 +4,8 @@ title: About
 permalink: /about/
 ---
 
-A curious person from Switzerland.
+A curious person from Switzerland. The blog is a collection of ideas that was fun to test.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
