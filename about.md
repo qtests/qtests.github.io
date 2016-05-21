@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A web developer from Seefeld
+A curious person from Switzerland.
 
 ### More Information
 
