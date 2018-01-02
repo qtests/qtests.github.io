@@ -4,8 +4,6 @@
 This is the first test - probably the must have "Hello World" in markdown!
 
 ``` r
-source( "labas.R" )
-
 options(digits = 3)
 cat("hello world!")
 ```
