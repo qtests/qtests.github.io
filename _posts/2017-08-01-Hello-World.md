@@ -1,4 +1,6 @@
-
+---
+layout: post
+---
 ### The markdown is here! 
 
 This is the first test - probably the must have "Hello World" in markdown!

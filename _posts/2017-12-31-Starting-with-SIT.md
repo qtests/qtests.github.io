@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Starting with SIT
 categories: tests
 tags: [SIT, Systematic, Asset Allocation]
