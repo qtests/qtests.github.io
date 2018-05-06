@@ -1,3 +1,11 @@
+---
+layout: default
+title: Starting with SIT
+categories: tests
+tags: [SIT, Systematic, Asset Allocation]
+---
+
+
 ### Systematic Investor
 
 The Systematic Investor blog has contributed many interesting ideas since the first post in 2011 (<https://systematicinvestor.wordpress.com/2011/10/03/hello-world/>). During the last year there was no new analysis published, but the R code of the Systematic Investor Toolbox (SIT) is still available on github. It is easy to download and to test the SIT. The details are briefly summarised on the About page, <http://systematicinvestor.github.io/about/>.
