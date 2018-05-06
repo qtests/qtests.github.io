@@ -317,6 +317,7 @@ table {
 	border-collapse: collapse;
 	font-size: 13px;
 	line-height: 1.5em;
+        background-color: transparent;
 }
 
 th,td {
