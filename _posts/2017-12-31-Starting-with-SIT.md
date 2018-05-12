@@ -55,7 +55,7 @@ One of the biggest worries for systematic investors is a high quality data. The 
 | EMB         | 1994-12-30  | 2017-12-29 |
 | EMER.EQ     | 1994-05-04  | 2017-12-29 |
 | EMER.FI     | 1994-12-30  | 2017-12-29 |
-| EUROPE.EQ   | 1986-09-30  | 2017-12-29 |
+| EUROPE.EQ   &ensp;| 1986-09-30  | 2017-12-29 |
 | EWJ         | 1992-09-15  | 2017-12-29 |
 | GLD         | 1968-04-01  | 2017-12-29 |
 | GOLD        | 1968-04-01  | 2017-12-29 |
@@ -64,7 +64,7 @@ One of the biggest worries for systematic investors is a high quality data. The 
 | ICF         | 1996-05-13  | 2017-12-29 |
 | IEF         | 1991-10-28  | 2017-12-29 |
 | IEV         | 1986-09-30  | 2017-12-29 |
-| INTL.BOND   | 1992-01-07  | 2017-12-29 |
+| INTL.BOND   &ensp;| 1992-01-07  | 2017-12-29 |
 | IWM         | 1980-01-02  | 2017-12-29 |
 | JAPAN.EQ    | 1992-09-15  | 2017-12-29 |
 | LONG.TR     | 1986-05-19  | 2017-12-29 |
@@ -85,7 +85,7 @@ One of the biggest worries for systematic investors is a high quality data. The 
 | US.EQ       | 1980-01-02  | 2017-12-29 |
 | US.HY       | 1980-01-02  | 2017-12-29 |
 | US.MID      | 1998-05-21  | 2017-12-29 |
-| US.SMCAP    | 1980-01-02  | 2017-12-29 |
+| US.SMCAP    &ensp;| 1980-01-02  | 2017-12-29 |
 | VB          | 1980-01-02  | 2017-12-29 |
 | VO          | 1998-05-21  | 2017-12-29 |
 | VTI         | 1980-01-02  | 2017-12-29 |
