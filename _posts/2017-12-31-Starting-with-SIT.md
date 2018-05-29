@@ -37,7 +37,7 @@ for (fName in list.files(pattern="*.png")) browseURL(fName)
 
 For example, the first image looks like
 
-![]({{ site.baseurl }}/images/plot1.png)
+![]({{ site.baseurl }}/img/2017-12-31-Starting-with-SIT/plot1.png)
 
 One of the biggest worries for systematic investors is a high quality data. The SIT has a function `make.data.proxy` that creates a nice time series collection from available data samples on the Internet. Most of the data is collected automatically, however one needs to download Thomson Reuters / CoreCommodity CRB Index (<http://www.corecommodityllc.com/CoreIndexes.aspx>) data file manually. The full list of time series collected is in the table below.
 

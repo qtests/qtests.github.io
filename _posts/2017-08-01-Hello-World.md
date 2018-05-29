@@ -37,7 +37,7 @@ knitr::kable(head(mtcars))
 | Valiant           |  18.1|    6|   225|  105|  2.76|  3.46|  20.2|    1|    0|     3|     1|
 
 ``` r
-f.labas(5)
+f.print(5)
 ```
 
     ## [1] 5
@@ -46,4 +46,4 @@ f.labas(5)
 plot(1:10)
 ```
 
-![]({{ site.baseurl }}/images/unnamed-chunk-2-1.png)
+![]({{ site.baseurl }}/img/2017-08-01-Hello-World/unnamed-chunk-2-1.png)
