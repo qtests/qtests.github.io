@@ -267,8 +267,8 @@ for(m in names(models))
 |Avg   |0.0   |0.3   |1.4   |1.7   |0.3   |0.2   |0.7   |0.0   |0.3   |0.3    |0.5   |1.6   |7.2    |-10.2  |
 
        
-    ## EqualWeight Strategy - Latest Allocation: 
     ## 
+	## EqualWeight Strategy - Latest Allocation: 
     ## 
     ##              US.STOCKS   FOREIGN.STOCKS   US.10YR.GOV.BOND   REAL.ESTATE   COMMODITIES   CASH 
     ## -----------  ----------  ---------------  -----------------  ------------  ------------  -----
@@ -311,8 +311,8 @@ for(m in names(models))
 |Avg   |0.7   |0.8   |0.8   |0.5   |0.0   |0.5   |0.8   |0.2   |0.7   |0.2   |1.1   |1.7   |8.0   |-6.3   |
        
        
-    ## QATAA Strategy - Latest Allocation: 
     ## 
+	## QATAA Strategy - Latest Allocation: 
     ## 
     ##              US.STOCKS   FOREIGN.STOCKS   US.10YR.GOV.BOND   REAL.ESTATE   COMMODITIES   CASH 
     ## -----------  ----------  ---------------  -----------------  ------------  ------------  -----
@@ -355,8 +355,8 @@ for(m in names(models))
 |Avg   |0.7   |0.9   |0.8   |0.5   |0.1   |0.5   |0.9   |0.3   |0.9   |0.4   |1.2   |1.7   |8.6   |-5.9   |
        
        
-    ## QATAA_Bands Strategy - Latest Allocation: 
     ## 
+	## QATAA_Bands Strategy - Latest Allocation: 
     ## 
     ##              US.STOCKS   FOREIGN.STOCKS   US.10YR.GOV.BOND   REAL.ESTATE   COMMODITIES   CASH 
     ## -----------  ----------  ---------------  -----------------  ------------  ------------  -----
