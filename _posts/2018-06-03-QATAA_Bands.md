@@ -76,7 +76,7 @@ print(last(data$prices))
     ##            US.STOCKS FOREIGN.STOCKS US.10YR.GOV.BOND REAL.ESTATE COMMODITIES   CASH
     ## 2018-06-01     141.5          54.09           101.93       79.24       17.91  79.09
 
-<br>
+&#10;
 ### Setup
 
 ``` r
@@ -115,7 +115,7 @@ data$weight[period.ends,] = ntop(prices[period.ends,], n)
 models$EqualWeight = bt.run.share(data, clean.signal=F, commission = commission, trade.summary=T, silent=T)
 ```
 
-<br>
+&#10;
 #### QATAA Strategy
 
 ``` r
@@ -142,7 +142,7 @@ data$weight[period.ends,] = weight[period.ends,]
 models$QATAA = bt.run.share(data, clean.signal=F, commission = commission, trade.summary=TRUE, silent=TRUE)
 ```
 
-<br>
+&#10;
 #### QATAA Strategy With Bands
 
 ``` r
@@ -163,7 +163,7 @@ data$weight[period.ends,] = weight[period.ends,]
 models$QATAA_Bands = bt.run.share(data, clean.signal=F, commission = commission, trade.summary=T, silent=T)
 ```
 
-<br>
+&#10;
 #### Performance Reporting
 
 ``` r
