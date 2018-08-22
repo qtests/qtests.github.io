@@ -1,5 +1,5 @@
 # project
-_site
+_site/
 .sass-cache
 .vagrant
 
@@ -7,3 +7,6 @@ _site
 .DS_Store
 Thumbs.db
 ehthumbs.db
+.jekyll-metadata
+.gitattributes
+
